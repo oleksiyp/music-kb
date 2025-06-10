@@ -1,5 +1,4 @@
-
-# Personalized Music Theory Program
+# Learning Music theory
 
 **Focus:** Learn through doing, playing, singing, DAW interaction, and physical memory  
 **Level:** Beginner / self-taught  

@@ -1,4 +1,4 @@
-# Learning Piano for Electronic Music
+# Learning Piano
 
 You don't need to "learn piano" in the classical sense. Your target is functional fluency in playing electronic music – to express musical ideas quickly and play with gear. That's very achievable in 1–2 years of light, focused practice.
 

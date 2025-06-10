@@ -1,4 +1,4 @@
-# Electronic Music Learning Path
+# Learning electronic music
 
 ## Courses for Electronic Music Production and Music Theory
 

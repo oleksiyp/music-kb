@@ -1,3 +1,4 @@
+# Home page
 
  * [Bookmarks](bookmarks)
  * [Learning music theory](learning-music-theory)

@@ -1,4 +1,4 @@
-## Music Learning Resources
+## Bookmarks
 
 - [Fundamentals of Rhythm for Electronic Music](https://youtu.be/JE3QM_9sljI?si=_cYXk1VDRI-kKVPl)
 - [Song writing и почему мызка цепляет](https://youtu.be/o3CqVO3bcWc?si=upmcY1w-pPXt08UQ)
