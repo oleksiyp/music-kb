@@ -1,5 +1,6 @@
 
  * [Bookmarks](bookmarks)
- * [Learning electronic music](learning-electronic-music)
+ * [Learning music theory](learning-music-theory)
  * [Learning piano](learning-piano)
+ * [Learning electronic music](learning-electronic-music)
  * [Electronic instruments](electronic-instruments)
