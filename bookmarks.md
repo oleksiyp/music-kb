@@ -1,52 +1,18 @@
+## Music Learning Resources
 
-
-
-
-
-Fundamentals of Rhythm for Electronic Music
-https://youtu.be/JE3QM_9sljI?si=_cYXk1VDRI-kKVPl
-
-Song writing и почему мызка цепляет
-https://youtu.be/o3CqVO3bcWc?si=upmcY1w-pPXt08UQ
-
-Give me 14 minutes, and I'll 10x your music production skills
-https://youtu.be/NZlUwgMWwIs?si=8ykzyZPEVzoPAF4b
-
-These 6 Rhythms Completely Changed the Way I Make Music
-https://youtu.be/VE_OzOMs-_4?si=MBDjAZtanUoTKffv
-
-Disco Funk Jam Track in G minor "Down On The Dancefloor" - BJT #76
-https://youtu.be/2YWdzio0yWQ?si=ZjkAm65BtIb4UOia
-
-STARBLASTER /// 3am Funk Dance Party
-https://youtu.be/1UOVLdPslmo?si=h4jpBi59eTg630I_
-
-Rhythm Section Jam: Funky Disco Slap Bass Groove
-https://youtu.be/64lrP3clJlI?si=azDgnk30XDZptde7
-
-Funky Jam - Yamaha DX7, Moog Bass, Roland TR
-https://youtu.be/a57VrjEOBn4?si=LIbJl8TZAy6O31wV
-
-Groovy FUNK DISCO Backing Track in A minor
-https://youtu.be/nrtTSNV2V7I?si=V060qIdTSdb-xhm4
-
-How to Harmonize a Melody in RapidComposer #songwriter #musictheory #mus...
-https://youtu.be/NH9mY9X-iTw?si=8PPRD2g0s30mXe2o
-
-системы звуков и манипуляция ими
-https://youtu.be/j90Lt8ySVvU?si=fNJ6AL4daXPEzMp9
-
-great elektronik set
-https://youtu.be/QM0sJWWJNBk?si=ZjmmPQVkXo3qU1m0
-
-упражнения
-https://youtu.be/m3Sg68XbngQ?si=t0Up3M4ugu-LIQtc
-
-The Secret of Ear Training
-https://youtu.be/u0P7gh789RI?si=Lw9yaDDuWWuHXbcK
-
-Essential Ear Training - Feeling the Major Scale
-https://www.youtube.com/live/Y6BPB3Cso00?si=XSKyOadOi4-6v-WG
-
-Rhythm Traning by Metronome #metronome
-https://youtube.com/shorts/-l-xwO9Ynig?si=bMUCLhyLyfV9_dEm
+- [Fundamentals of Rhythm for Electronic Music](https://youtu.be/JE3QM_9sljI?si=_cYXk1VDRI-kKVPl)
+- [Song writing и почему мызка цепляет](https://youtu.be/o3CqVO3bcWc?si=upmcY1w-pPXt08UQ)
+- [Give me 14 minutes, and I'll 10x your music production skills](https://youtu.be/NZlUwgMWwIs?si=8ykzyZPEVzoPAF4b)
+- [These 6 Rhythms Completely Changed the Way I Make Music](https://youtu.be/VE_OzOMs-_4?si=MBDjAZtanUoTKffv)
+- [Disco Funk Jam Track in G minor "Down On The Dancefloor" - BJT #76](https://youtu.be/2YWdzio0yWQ?si=ZjkAm65BtIb4UOia)
+- [STARBLASTER /// 3am Funk Dance Party](https://youtu.be/1UOVLdPslmo?si=h4jpBi59eTg630I_)
+- [Rhythm Section Jam: Funky Disco Slap Bass Groove](https://youtu.be/64lrP3clJlI?si=azDgnk30XDZptde7)
+- [Funky Jam - Yamaha DX7, Moog Bass, Roland TR](https://youtu.be/a57VrjEOBn4?si=LIbJl8TZAy6O31wV)
+- [Groovy FUNK DISCO Backing Track in A minor](https://youtu.be/nrtTSNV2V7I?si=V060qIdTSdb-xhm4)
+- [How to Harmonize a Melody in RapidComposer #songwriter #musictheory #mus...](https://youtu.be/NH9mY9X-iTw?si=8PPRD2g0s30mXe2o)
+- [системы звуков и манипуляция ими](https://youtu.be/j90Lt8ySVvU?si=fNJ6AL4daXPEzMp9)
+- [great elektronik set](https://youtu.be/QM0sJWWJNBk?si=ZjmmPQVkXo3qU1m0)
+- [упражнения](https://youtu.be/m3Sg68XbngQ?si=t0Up3M4ugu-LIQtc)
+- [The Secret of Ear Training](https://youtu.be/u0P7gh789RI?si=Lw9yaDDuWWuHXbcK)
+- [Essential Ear Training - Feeling the Major Scale](https://www.youtube.com/live/Y6BPB3Cso00?si=XSKyOadOi4-6v-WG)
+- [Rhythm Traning by Metronome #metronome](https://youtube.com/shorts/-l-xwO9Ynig?si=bMUCLhyLyfV9_dEm)
