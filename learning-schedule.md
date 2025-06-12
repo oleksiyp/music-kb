@@ -1,6 +1,4 @@
-That's a great mix of tools---you're covering **ear training, rhythm, piano playing, and singing**. The best practice strategy depends on your goals and available time, but here's a breakdown of the pros and cons of each approach:
-
-* * * * *
+That's a great mix of tools---you're covering **ear training, rhythm, piano playing, and singing**.
 
 ### ✅ **Best Recommendation: "Rotate focus weekly + daily minimums"**
 
@@ -44,6 +42,3 @@ That's a great mix of tools---you're covering **ear training, rhythm, piano play
 
 -   Once a month, record yourself for fun (even if rough)---it helps track progress.
 
-* * * * *
-
-Would you like a Notion table or Google Sheet template to track this plan?
