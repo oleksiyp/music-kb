@@ -1,6 +1,7 @@
 ## Bookmarks
 
 - [Fundamentals of Rhythm for Electronic Music](https://youtu.be/JE3QM_9sljI?si=_cYXk1VDRI-kKVPl)
+- [Masz Mały Budżet? Oto Najlepszy Sprzęt do Produkcji Muzycznej](https://www.youtube.com/watch?v=532Am_gJlQw)
 - [How I would learn music production](https://youtu.be/3RjQ1WjAl7Q?si=I-8rnlGT_VfpwGnn)
 - [Song writing и почему мызка цепляет](https://youtu.be/o3CqVO3bcWc?si=upmcY1w-pPXt08UQ)
 - [Give me 14 minutes, and I'll 10x your music production skills](https://youtu.be/NZlUwgMWwIs?si=8ykzyZPEVzoPAF4b)
