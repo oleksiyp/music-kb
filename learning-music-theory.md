@@ -4,6 +4,8 @@
 **Level:** Beginner / self-taught  
 **Requirements:** MIDI keyboard (or synthesizer), voice, DAW (Ableton, LMMS), EarMaster or similar
 
+Microphone: fifine k669
+
 ## Format
 **Schedule:** 5 days a week, 20–40 minutes per session
 
